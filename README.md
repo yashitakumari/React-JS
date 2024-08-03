@@ -1,12 +1,6 @@
 # OCHI Design - Dark Mode
 This project is a React.js implementation of the OCHI Design with dark mode. It includes several components to structure the web page and uses `locomotive-scroll` for smooth scrolling.
 
-## Table of Contents
-- [Overview](#overview)
-- [App Component](#app-component)
-- [Installation](#installation)
-- [Usage](#usage)
-
 ## Overview
 The OCHI Design in dark mode aims to provide a visually appealing and user-friendly interface. The main features include a responsive navbar, landing page, marquee, about section, eyes section, featured works, gallery, and footer. All components are styled to fit a dark theme using Tailwind CSS.
 
